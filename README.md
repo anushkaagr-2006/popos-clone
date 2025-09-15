@@ -28,7 +28,7 @@ This project was created as part of a recruitment task to demonstrate frontend d
 
 | Homepage | Features Section | Download Section |
 | --- | --- | --- |
-| ![Homepage](screenshots/homepage.png) | ![Features](screenshots/features.png) | ![Download](screenshots/download.png) |
+| ![Homepage](c:\Users\Anushka\OneDrive\画像\Screenshots\Screenshot 2025-09-15 223212.png) | ![Features](screenshots/features.png) | ![Download](screenshots/download.png) |
 
 ---
 
