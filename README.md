@@ -26,50 +26,57 @@ This project was created as part of a recruitment task to demonstrate frontend d
 
 ## 📂 Project Structure
 
-```bash
 popos-clone/
-│── index.html      # Main HTML file
-│── style.css       # Styling
-│── script.js       # JavaScript interactions
-└── README.md       # Documentation
+│── index.html # Main HTML file
+│── style.css # Styling
+│── script.js # JavaScript interactions
+└── README.md # Documentation
 
 
-📸 Screenshots
-Homepage	Features Section	Download Section
+---
 
-	
-	
+## 📸 Screenshots
 
-(You can replace these with your own screenshots once you add them to a screenshots/ folder.)
+| Homepage | Features Section | Download Section |
+| --- | --- | --- |
+| ![Homepage](screenshots/homepage.png) | ![Features](screenshots/features.png) | ![Download](screenshots/download.png) |
 
-🚀 Live Demo (Optional)
+*(Add your real screenshots inside a `screenshots/` folder in this repo with these names: `homepage.png`, `features.png`, `download.png`.)*
 
-You can deploy the site using Vercel or Netlify.
-Example: Live Demo Link
+---
 
-🎨 Color Palette
+## 🚀 Live Demo (Optional)
 
-Primary: #63B3ED
+You can deploy the site using **Vercel** or **Netlify**.  
+Example: [Live Demo Link](https://your-deployment-link.vercel.app)
 
-Secondary: #48E5C2
+---
 
-Accent: #FAA41A
+## 🎨 Color Palette
 
-Dark Background: #1A1A1A
+- **Primary:** `#63B3ED`  
+- **Secondary:** `#48E5C2`  
+- **Accent:** `#FAA41A`  
+- **Dark Background:** `#1A1A1A`
 
-📄 License
+---
 
-This project is for educational purposes only.
+## 📄 License
+
+This project is **for educational purposes only**.  
 Pop!_OS is a trademark of System76.
 
-👩‍💻 Author
+---
 
-Anushka
+## 👩‍💻 Author
 
-GitHub: @anushkaagr-2006
+**Anushka**  
+- GitHub: [@anushkaagr-2006](https://github.com/anushkaagr-2006)
 
-🙏 Acknowledgments
+---
 
-Inspired by the official Pop!_OS website
+## 🙏 Acknowledgments
 
-Thanks to System76 for creating an amazing Linux distribution
+- Inspired by the official Pop!_OS website  
+- Thanks to System76 for creating an amazing Linux distribution  
+
