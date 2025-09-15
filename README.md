@@ -24,31 +24,18 @@ This project was created as part of a recruitment task to demonstrate frontend d
 
 ---
 
-## 📂 Project Structure
-
-popos-clone/
-│── index.html # Main HTML file
-│── style.css # Styling
-│── script.js # JavaScript interactions
-└── README.md # Documentation
-
-
----
-
 ## 📸 Screenshots
 
 | Homepage | Features Section | Download Section |
 | --- | --- | --- |
 | ![Homepage](screenshots/homepage.png) | ![Features](screenshots/features.png) | ![Download](screenshots/download.png) |
 
-*(Add your real screenshots inside a `screenshots/` folder in this repo with these names: `homepage.png`, `features.png`, `download.png`.)*
-
 ---
 
 ## 🚀 Live Demo (Optional)
 
 You can deploy the site using **Vercel** or **Netlify**.  
-Example: [Live Demo Link](https://your-deployment-link.vercel.app)
+Example: [Live Demo Link](https://popos-clone-jet.vercel.app/)
 
 ---
 
