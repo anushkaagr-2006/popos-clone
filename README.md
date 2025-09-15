@@ -32,6 +32,8 @@ popos-clone/
 │── style.css       # Styling
 │── script.js       # JavaScript interactions
 └── README.md       # Documentation
+
+
 📸 Screenshots
 Homepage	Features Section	Download Section
 
